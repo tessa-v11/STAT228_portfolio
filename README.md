@@ -5,7 +5,7 @@ This portfolio showcases my growing experience in Data Science including course 
 ## Education
 
 **Simmons University**, Boston, MA  
-*Bachelor of Science in Data Science and Analytics, anticipated May 2026*
+*Bachelor of Science in Data Science and Analytics, anticipated May 2026*  
 Sept 2024 - Present  
 GPA: 4.00  
 Relevant Courses: Intro to Data Science, Statistics, Computer Science, Linear Algebra  
