@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This portfolio showcases my growing experience in Data Science including course projects, independent work, and collaborative efforts.
+This portfolio showcases my growing experience through my participation in a Statistics 228 course, Introduction to Data Science
 
 ## Education
 
