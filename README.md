@@ -15,7 +15,7 @@
 
 # Site Purpose
 
-This site is meant to showcase ym work as I build projects and learn new skills through an Introduction To Data Science course. Here you will find a collection of mini projects from this course where I learn and apply various data science techniques within R. This portfolio is a reflection of my growht as I aim to deepen my knowledge of programming and data analysis.
+This site is meant to showcase my work as I build projects and learn new skills through an Introduction To Data Science course. Here you will find a collection of mini projects from this course where I learn and apply various data science techniques within R. This portfolio is a reflection of my growht as I aim to deepen my knowledge of programming and data analysis.
 
 # Projects
 
@@ -30,3 +30,9 @@ This site is meant to showcase ym work as I build projects and learn new skills 
 **Summary**: The goal of this project was to create a tutorial to introduce beginners to data wrangling techniques. I explored essential data transformation techniques such as filtering, sorting, grouping, and summarizing data using the `dplyr` package and the built-in `diamonds` dataset from the `ggplot2` package. The tutorial also incorporated visualizations, including box plots and scatter plots, to highlight how wrangling data can uncover insights. Overall, this project provided a practical introduction to transforming raw data into a clean, organized format ready for analysis, laying the groundwork for more advanced data science tasks.
 
 [Read the full blog post](https://tessa-v11.github.io/stat228-MiniProject2/MiniProject2.html)
+
+## Final Project
+
+**Summary**: This final project demonstrated my understanding of the full data science process developed throughout the course. I aimed to explore whether risk factors for heart disease differ by gender. I used the `tidyverse` to wrangle and the data, created visualizations to explore patterns by gender, and built separate logistic regression models to identify key predictors. While overall model accuracy was similar for males and females, certain indicators showed gender-specific associations with heart disease. These findings highlight the value of personalized approaches in risk assessment and diagnosis.
+
+[Read the full blog post](https://tessa-v11.github.io/stat228-FinalProject/Project3.html)
